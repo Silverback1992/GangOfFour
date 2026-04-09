@@ -1,4 +1,5 @@
 ﻿namespace FactoryMethod;
+
 public class BombedMazeCreator : IMazeCreator
 {
     public Wall CreateWall()

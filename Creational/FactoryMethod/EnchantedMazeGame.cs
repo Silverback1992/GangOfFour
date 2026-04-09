@@ -1,4 +1,5 @@
 ﻿namespace FactoryMethod;
+
 public class EnchantedMazeGame : IMazeCreator
 {
     protected Spell CastSpell() => new();
