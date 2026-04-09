@@ -1,6 +1,3 @@
 ﻿namespace FactoryMethod;
 
-public class Wall : MapSite
-{
-
-}
+public class Wall : MapSite;

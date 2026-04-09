@@ -1,5 +1,3 @@
 ﻿namespace FactoryMethod;
 
-public class Spell
-{
-}
+public class Spell;
