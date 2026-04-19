@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Behavioral/">
+    <Project Path="Behavioral/Strategy/Strategy.csproj" />
+  </Folder>
+  <Folder Name="/Creational/">
+    <Project Path="Creational/FactoryMethod/FactoryMethod.csproj" />
+    <Project Path="Creational/MazeGame/MazeGame.csproj" />
+  </Folder>
+  <Folder Name="/Structural/">
+    <Project Path="Structural/Facade/Facade.csproj" />
+  </Folder>
+</Solution>
