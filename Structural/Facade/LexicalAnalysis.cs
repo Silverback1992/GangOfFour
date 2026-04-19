@@ -8,7 +8,7 @@ public class LexicalAnalysis
 
         foreach (var split in input.Split(' '))
         {
-            if (int.TryParse(split, out var number))
+            if (int.TryParse(split, out _))
             {
                 tokens.Add(new Token { Value = $"NUMBER({split})" });
             }
