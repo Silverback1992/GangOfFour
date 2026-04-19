@@ -1,4 +1,3 @@
 ﻿namespace FactoryMethod;
-public class BombedWall : Wall
-{
-}
+
+public class BombedWall : Wall;

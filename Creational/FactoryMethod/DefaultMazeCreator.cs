@@ -1,4 +1,3 @@
 ﻿namespace FactoryMethod;
-public class DefaultMazeCreator : IMazeCreator
-{
-}
+
+public class DefaultMazeCreator : IMazeCreator;

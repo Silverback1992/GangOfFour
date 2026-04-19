@@ -1,4 +1,5 @@
 ﻿namespace FactoryMethod;
+
 public interface IMazeCreator
 {
     Maze CreateMaze() => new();

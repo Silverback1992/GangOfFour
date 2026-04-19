@@ -1,6 +1,3 @@
 ﻿namespace MazeGame;
 
-public class Wall : MapSite
-{
-
-}
+public class Wall : MapSite;
